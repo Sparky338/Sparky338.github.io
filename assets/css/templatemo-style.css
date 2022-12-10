@@ -225,7 +225,7 @@ html {
   -webkit-overflow-scrolling: touch;
   background-color: #a43f49;
   box-sizing: border-box;
-  height: 100vh;  
+  height: 100vh;
   max-height: 100vh !important;
   max-width: 80vw !important;
   min-width: 45px !important;
@@ -234,7 +234,7 @@ html {
   overflow-y: auto !important;
   padding: 0;
   position: fixed !important;
-  top: calc(0px);  
+  top: calc(0px);
   width: 20%;
   will-change: transform;
   z-index: 9999 !important;
@@ -434,36 +434,56 @@ button:hover {
     transition: all 0.5s;
 }
 
-.service-item .first-service-icon {
-    background-image: url(../images/first-white-icon.png);
+.service-item .HTML5-icon {
+    background-image: url(../images/portfolio/html5.png);
 }
 
-.service-item:hover .first-service-icon {
-    background-image: url(../images/first-main-icon.png);
+.service-item .CSS3-icon {
+    background-image: url(../images/portfolio/css3.png);
 }
 
-.service-item .second-service-icon {
-    background-image: url(../images/second-white-icon.png);
+.service-item .Javascript-icon {
+    background-image: url(../images/portfolio/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png);
 }
 
-.service-item:hover .second-service-icon {
-    background-image: url(../images/second-main-icon.png);
+.service-item .Python-icon {
+    background-image: url(../images/portfolio/267_Python-512.png);
 }
 
-.service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+.service-item .react-icon {
+    background-image: url(../images/portfolio/React-icon.svg.png);
 }
 
-.service-item:hover .third-service-icon {
-    background-image: url(../images/third-main-icon.png);
+.service-item .redux-icon {
+    background-image: url(../images/portfolio/redux.png);
 }
 
-.service-item .fourth-service-icon {
-    background-image: url(../images/fourth-white-icon.png);
+.service-item .git-icon {
+    background-image: url(../images/portfolio/Git-Icon-1788C.png);
 }
 
-.service-item:hover .fourth-service-icon {
-    background-image: url(../images/fourth-main-icon.png);
+.service-item .github-icon {
+    background-image: url(../images/portfolio/github.png);
+}
+
+.service-item .aws-icon {
+    background-image: url(../images/portfolio/AWS.png);
+}
+
+.service-item .heroku-icon {
+    background-image: url(../images/portfolio/heroku.png);
+}
+
+.service-item .render-icon {
+    background-image: url(../images/portfolio/Render.png);
+}
+
+.service-item .vs-code-icon {
+    background-image: url(../images/portfolio/VS-code.png);
+}
+
+.service-item .webpack-icon {
+    background-image: url(../images/portfolio/Webpack.png);
 }
 
 
@@ -690,7 +710,7 @@ section.contact-me {
     }
 }
 
-@media screen and (max-width: 1680px) and (min-width: 846px) { 
+@media screen and (max-width: 1680px) and (min-width: 846px) {
     .menu .social-network ul li a {
         width: 36px;
         height: 36px;
@@ -742,15 +762,15 @@ section.contact-me {
 #menu-toggle,
 #menu-close {
     display: none;
-}  
+}
 
-@media screen and (max-width: 845px) {        
+@media screen and (max-width: 845px) {
     #menu-toggle,
     #menu-close {
         display: inline-block;
-    }    
+    }
 
-    .menu {        
+    .menu {
         width: 320px;
         -webkit-transform: translateX(-100%) !important;
         transform: translateX(-100%) !important;
@@ -760,7 +780,7 @@ section.contact-me {
     }
 
     .menu .image {
-        margin-top: 40px;        
+        margin-top: 40px;
     }
 
     .menu .image img {
