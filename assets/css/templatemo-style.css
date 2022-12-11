@@ -13,7 +13,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/page-bg.jpg) no-repeat center center fixed;
+    background: url(../images/portfolio/skydiving_background_dark.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -693,12 +693,13 @@ section.contact-me {
 }
 
 #contact input {
-    background-color: rgba(250,250,250,0.1);
+    background-color: rgba(250,250,250,0.8);
     border: 1px solid rgba(250,250,250,1);
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: black;
     font-size: 14px;
+    font-weight: 600;
     height: 40px;
     line-height: 40px;
     width: 100%;
@@ -711,12 +712,13 @@ section.contact-me {
 }
 
 #contact textarea {
-    background-color: rgba(250,250,250,0.1);
+    background-color: rgba(250,250,250,0.8);
     border: 1px solid rgba(250,250,250,1);
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: black;
     font-size: 14px;
+    font-weight: 600;
     height: 180px;
     max-height: 220px;
     line-height: 40px;
