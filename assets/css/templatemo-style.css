@@ -296,7 +296,7 @@ html {
 
 .section-heading {
     text-align: center;
-    padding: 80px 45px;
+    padding: 60px 45px;
 }
 
 .section-heading h2 {
@@ -655,6 +655,10 @@ figure.snip1321.hover:after {
 
 section.contact-me {
     border-bottom: none;
+}
+
+.contact-links {
+    margin-top: 15px;
 }
 
 #contact input {
