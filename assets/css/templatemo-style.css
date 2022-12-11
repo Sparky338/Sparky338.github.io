@@ -661,12 +661,21 @@ section.contact-me {
     margin-top: 15px;
 }
 
+.email-link,
 .social-links {
+    color: #a43f49;
+}
+
+.email-link:hover,
+.social-links:hover {
     color: #8c363e;
 }
 
-.social-links:hover {
-    color: #a43f49;
+.Dev-info-container{
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
 }
 
 #contact input {
