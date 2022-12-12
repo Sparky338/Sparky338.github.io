@@ -176,6 +176,10 @@ html {
     transition: all 0.5s;
 }
 
+.fa {
+    margin-top: 7px;
+}
+
 .menu .social-network ul li a:hover {
     background-color: #fff;
     color: #a43f49;
