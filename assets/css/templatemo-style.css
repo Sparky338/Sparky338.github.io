@@ -368,6 +368,10 @@ button:hover {
     text-align: center;
 }
 
+/* About me paragraph */
+.section-heading .About-me-Paragraph {
+    text-align: left;
+}
 
 /* Left & Right Post */
 
@@ -399,7 +403,7 @@ button:hover {
 }
 
 
-/* Services */
+/* Skills */
 
 .my-services .col-md-6 {
     padding-left: 5px;
