@@ -682,6 +682,10 @@ section.contact-me {
     margin-top: 15px;
 }
 
+.email-link {
+    font-size: 20px;
+}
+
 .email-link,
 .social-links {
     color: #a43f49;
@@ -690,7 +694,7 @@ section.contact-me {
 
 .email-link:hover,
 .social-links:hover {
-    color: #8c363e;
+    color: white;
 }
 
 .Dev-info-container{
