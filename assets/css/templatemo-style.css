@@ -468,6 +468,10 @@ button:hover {
     background-image: url(../images/portfolio/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png);
 }
 
+.service-item .Typescript-icon {
+    background-image: url(../images/portfolio/png-transparent-typescript-hd-logo.png);
+}
+
 .service-item .Python-icon {
     background-image: url(../images/portfolio/267_Python-512.png);
 }
