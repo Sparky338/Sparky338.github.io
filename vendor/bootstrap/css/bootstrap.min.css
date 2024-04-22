@@ -1172,6 +1172,12 @@ pre code {
         max-width: 50%
     }
 
+    .skill-icon {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%
+    }
+
     .col-md-7 {
         -ms-flex: 0 0 58.333333%;
         flex: 0 0 58.333333%;
